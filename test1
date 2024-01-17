@@ -12,3 +12,5 @@ git add file name
 git status
 git branch
 git push
+git pull
+
